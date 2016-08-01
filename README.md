@@ -1,0 +1,1 @@
+Base i386 image for PHP applications
